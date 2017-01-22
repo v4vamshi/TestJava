@@ -35,7 +35,6 @@ Sum of orders: 153.81
  
 ******************************************************************************************** */
 
-
 class Order {
 
 	private List<OrderLine> orderLines = new ArrayList<OrderLine>();
